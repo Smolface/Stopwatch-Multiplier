@@ -13,10 +13,4 @@ If the controls are not working, make sure that your caps lock is off and that y
 Download Stopwatch_Multiplier.exe and it should launch a terminal window. All External libraries used are already bundled into the exe.
 
 # How to install (Linux)
-First, you need to install the <ncurses.h> external library for c++. This is required for the program since it uses this library to display elements in your terminal window. The following are install commands for different linux distros.
-
-Ubuntu / Debian / Linux Mint / Pop!_OS
-'''bash
-sudo apt update
-sudo apt install libncurses5-dev libncursesw5-dev
-'''
+Download Stopwatch_Multiplier.exe and use a compatability layer such as Wine to run the Windows-built program. 
