@@ -13,4 +13,5 @@ If the controls are not working, make sure that your caps lock is off and that y
 Download Stopwatch_Multiplier.exe and it should launch a terminal window. All External libraries used are already bundled into the exe.
 
 # How to install (Linux)
-Download Stopwatch_Multiplier.exe and use a compatability layer such as Wine to run the Windows-built program. 
+Download Stopwatch_Multiplier.exe and use a compatability layer such as Wine to run the Windows-built program.
+Note: On linux Mint, q4wine should also work.
